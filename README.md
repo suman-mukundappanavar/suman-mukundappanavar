@@ -1,11 +1,20 @@
 ### Hi there 👋 I'm<i> SUMAN </i>
 
-- 🎓 I’m currently pursuing my Bachelors Degree in Electronics and Communication.
-- 🌱 I’m currently learning <i>Deep learning algorithms</i>.  
-- 💬 Ask me about Python Programming, C Programming. 
-- 📫 How to reach me: Mail.id(sumanmukundappanavar@gmail.com)
-- 😝 Fun fact: “My perfect day would start with scrolling Instagram and end with <i>all data exahusted</i> message”. 
+💻 Passionate about Data visualisation, Analystics, and problem solving 
+
+📊 Skilled in SQL | Power BI | Python | DAX queries | ETL and the learning journey continues.....
+
+🌱 Currently exploring adavced analystics and dashboard designing. 
 
 
+🚀**What I do**
+- Build interactive dashboards and data reports
+- optimise SQL queries
+- Share knolwedge and contribute to open source projects.
 
-<img src="https://github-readme-stats.vercel.app/api?username=suman-mukundappanavar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+📨**Connect with me**
+
+💼 [My LinkeDIn Profile](www.linkedin.com/in/suman-mukundappanavar)
+
+📧 (mailto:sumanmukundappanavar@gmail.com)
+
